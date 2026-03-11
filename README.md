@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=e0e5ec&height=150&section=header&text=Adith&fontSize=50&fontColor=333333&animation=fadeIn&desc=CS%20%26%20Cyber%20Security%20Student&descSize=20&descAlignY=70" width="100%"/>
+<br>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Hello,+I'm+Adith+👋;Exploring+Cybersecurity+Logics;Learning+Node.js+%26+Web+Dev;Multibooting+Linux+Distros" alt="Typing SVG" />
-</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello,+I'm+Adith;Exploring+Cybersecurity+Logics;Learning+Node.js+and+Web+Dev;Exploring+Linux+Distros" alt="Typing Text" />
+</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iDadew0/giphy.gif" width="180" alt="Minimalist Coding GIF">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="180" alt="Hacker Coding GIF">
 </div>
 
 <br>
