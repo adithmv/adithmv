@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/adithmv/adithmv/main/image_4.png" width="100%" alt="Adith's Creative, Logical, Emotional Banner" />
 <br>
 
 <h1 align="center">
