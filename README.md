@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/adithmv/adithmv/main/image_4.png" width="100%" alt="Adith's Creative, Logical, Emotional Banner" />
-<br>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello,+I'm+Adith;Exploring+Cybersecurity+Logics;Learning+Node.js+and+Web+Dev;Exploring+Linux+Distros" alt="Typing Text" />
