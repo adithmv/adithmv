@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I am a first-year B.Tech Computer Science student specializing in Cyber Security. I am currently focused on deeply understanding the core logics of cybersecurity while also expanding my skills in modern web development to build practical, local solutions.
+I am a Second-year B.Tech Computer Science student specializing in Cyber Security. I am currently focused on deeply understanding the core logics of cybersecurity while also expanding my skills in modern web development to build practical, local solutions.
 
 - 🎯 **Current Focus:** Cybersecurity logics, JavaScript, HTML/CSS, and Node.js.
 - 💻 **Daily Driver:** Arch Linux (Main). I also run a multiboot setup with Kali Linux, Fedora, Bodhi, and Tails OS.
