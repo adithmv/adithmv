@@ -1,73 +1,78 @@
+# Adith M V
 
+Computer Science student (B.Tech, Cyber Security) from Kerala, India. I'm interested in how security works at a fundamental level, and I build full-stack applications to put that knowledge into practice.
 
+## Currently Building
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello,+I'm+Adith;Exploring+Cybersecurity+Logics;Learning+Node.js+and+Web+Dev;Exploring+Linux+Distros" alt="Typing Text" />
-</h1>
+### Indian Market Research Platform
+A personal research and analytics platform for the Indian stock market (NSE/BSE), built as a set of independent modules that cooperate through a shared database. It fetches daily price data with multiple source fallbacks and caching, computes technical indicators and candlestick patterns, analyzes news sentiment, and backtests signals against historical data. A live dashboard shows market data alongside a logbook of every action the system performs, and a discussion area presents analysis from different perspectives (technical, news, bull, bear and risk). It is strictly read-only research: it never places trades and does not give investment advice.
+**Stack:** Python, Supabase (PostgreSQL, pgvector, Realtime), Next.js, TypeScript | *In development, private repository*
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="180" alt="Hacker Coding GIF">
-</div>
+## Featured Projects
 
-<br>
+### [RydeLy](https://github.com/adithmv/RydeLy)
+A rider-first ride booking platform for Kerala. Riders choose pickup and destination on a map, get a server-priced road route and book a nearby driver. Drivers go online, receive offers and accept trips. Both sides can share live location, trips are confirmed with a four-digit PIN, and riders can rate completed rides. Admins verify drivers.
+**Stack:** React, Leaflet, Flask, Firebase Authentication and Realtime Database, openrouteservice
 
-### 👨‍💻 About Me
+### [Bhai.com (Fixnow)](https://github.com/adithmv/Bhai.com)
+A marketplace for finding and booking trusted local service providers ("Fixers") across Kerala, with customer, Fixer and admin roles. Security-focused: row-level security policies, mandatory two-factor authentication for admins, phone numbers visible only to booking participants, rate limiting and security regression tests.
+**Stack:** Next.js, React, Tailwind CSS, Supabase | [Live site](https://bhai-com.vercel.app)
 
-I am a Second-year B.Tech Computer Science student specializing in Cyber Security. I am currently focused on deeply understanding the core logics of cybersecurity while also expanding my skills in modern web development to build practical, local solutions.
+### [Utharam](https://github.com/adithmv/utharam)
+A study hub for VJEC students. Students find materials by department, semester and subject, search by title, read announcements, and post and upvote requests for materials. Admins upload and remove materials and publish announcements.
+**Stack:** FastAPI, Supabase, HTML, CSS, JavaScript | [Live site](https://utharam.vercel.app)
 
-- 🎯 **Current Focus:** Cybersecurity logics, JavaScript, HTML/CSS, and Node.js.
-- 💻 **Daily Driver:** Arch Linux (Main). I also run a multiboot setup with Kali Linux, Fedora, Bodhi, and Tails OS.
-- 🚀 **Currently Building:** Localized tech solutions for Kerala, including **RydeLy**, **Bhai.com**, and **Utharam**.
+### [HomeBite](https://github.com/adithmv/homesbite)
+A restaurant-first, cash-on-delivery food platform for a Bengaluru pilot. One application connects customers, restaurant owners, riders and an admin, with nearest-rider offers, order tracking and a settlement ledger export. Includes admin MFA, rate limits, an audit log and a Content Security Policy.
+**Stack:** Next.js, Supabase
 
-### 🛠️ Tech Stack & Skills
+### [AgriKerala (UrbanSprout)](https://github.com/adithmv/AgriKerala)
+A farming and gardening platform with a shop for agricultural products and an AI-powered planner that generates a climate summary, suggested crops and care guides for a user's plan. Orders are placed through WhatsApp, and admins manage orders.
+**Stack:** Next.js, Supabase, Google Gemini
 
-**Web & App Development**
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs&theme=light" alt="Web Dev Skills" />
-  </a>
-</div>
+### [Polar Expedition Manager (SIH)](https://github.com/adithmv/SIH26062)
+An application for managing polar expedition data. It stores expedition files, lets users set their importance, creates compressed or password-encrypted copies, and supports offline work with later delivery. Includes base-station setup and documentation.
 
-**Programming Languages**
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py&theme=light" alt="Programming Languages" />
-  </a>
-  <p><em>Intermediate: JavaScript, C++ (Near Intermediate) | Beginner: Python, C</em></p>
-</div>
+### [Placement Analyzer](https://github.com/adithmv/placement_analyser)
+A web app for analyzing campus placements, with company statistics, eligibility checks and application tracking, plus admin accounts.
+**Stack:** Flask, SQLAlchemy, Supabase PostgreSQL
 
-**Operating Systems & Tools**
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,kali,linux,git,github&theme=light" alt="OS and Tools" />
-  </a>
-</div>
+### [Audio Book Reader](https://github.com/adithmv/Audio-Book-Reader)
+A mobile audiobook app built for offline listening, with a library shelf, a player and local storage.
+**Stack:** React Native, Expo, TypeScript, SQLite
 
-### 🐍 GitHub Contributions
+### [StartRight](https://github.com/adithmv/startright)
+A platform for booking advisors, with advisor applications, bookings, reviews and a Q&A system.
+**Stack:** React, TypeScript, Node.js, Prisma
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adithmv/adithmv/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adithmv/adithmv/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adithmv/adithmv/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+### [Printso](https://github.com/adithmv/printso)
+A print-shop ordering app with separate student and shop-owner sides, where students upload documents and place print orders.
+**Stack:** React, Vite, Tailwind CSS, Supabase
 
-### 📫 Let's Connect
+### [CollegeBus](https://github.com/adithmv/CollegeBus)
+A bus pass portal for Vimal Jyoti Engineering College, with student sign-up, pass applications and a driver portal.
+**Stack:** HTML, CSS, JavaScript
 
-<div align="left">
-  <a href="mailto:adithmvs3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/adith-mv-the-webdev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Adith_m_v">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-</div>
+## Other Work
 
-<br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e0e5ec&height=100&section=footer" />
-</div>
+- [CalcPro](https://github.com/adithmv/caclpro): scientific calculator with a React frontend and FastAPI backend
+- [FreshNest](https://github.com/adithmv/freshnest): full-stack shopping app (React, Express, Supabase)
+- [Simple Banking System](https://github.com/adithmv/simpleBank): Java OOP project with a browser interface for accounts, transfers and transaction history
+- [Hospital Patient Priority Queue](https://github.com/adithmv/assignment-dsa-): data structures assignment in C
+
+## Skills
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Express, Python (Flask, FastAPI), Prisma |
+| Data and Auth | Supabase, Firebase, PostgreSQL, SQLite |
+| Data and Analysis | pandas, technical indicators, backtesting |
+| Languages | JavaScript, TypeScript, Python, C++, C, Java |
+| Tools | Git, GitHub, Linux (Arch, Kali, Fedora) |
+
+## Contact
+
+- Email: [adithmvs3@gmail.com](mailto:adithmvs3@gmail.com)
+- LinkedIn: [adith-mv-the-webdev](https://linkedin.com/in/adith-mv-the-webdev)
+- X: [@Adith_m_v](https://x.com/Adith_m_v)
